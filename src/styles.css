@@ -1,0 +1,9 @@
+@import '~datatables.net-dt/css/jquery.dataTables.css';
+
+body
+{
+    padding-top: 70px;
+}
+.dropdown-toggle{
+    cursor: pointer;
+}
